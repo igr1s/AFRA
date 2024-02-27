@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/enroll": "pages/enroll.js",
+  "/": "pages/index.js",
+  "/login": "pages/login.js",
+  "/add-course": "pages/add-course.js",
+  "/add-student": "pages/add-student.js",
+  "/logout": "pages/logout.js",
+  "/register": "pages/register.js",
+  "/scan": "pages/scan.js",
+  "/_document": "pages/_document.js"
+}

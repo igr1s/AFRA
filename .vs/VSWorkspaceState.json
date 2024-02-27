@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "\\components",
+    "\\components\\form",
+    "\\components\\hero",
+    "\\components\\isAuth",
+    "\\components\\meta",
+    "\\components\\navbar",
+    "\\pages",
+    "\\public",
+    "\\styles"
+  ],
+  "PreviewInSolutionExplorer": false
+}
